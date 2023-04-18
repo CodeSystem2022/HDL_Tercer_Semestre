@@ -35,4 +35,16 @@ Año 2023, Repositorio del grupo HDL
   Valetin Magnenat
   </h3>
  </div>
+ 
+ ## 📆 `Organización Semanal`
+
+      SEMANA               SCRUM MASTER  
+|------------------|   |------------------ |
+| :pencil:  semana 1   | Valentin Magnenat |
+| :pencil:  semana 2   | Octavio Galdon    |
+| :pencil:  semana 3   | Franco Catala     |
+| :pencil:  semana 4   | Santiago Cascon   | 
+| :pencil:  semana 5   | Alexis Romero     |
+| :pencil:  semana 6   | Milena Gimenez    |
+| :pencil:  semana 7   | Leonardo Farina   |
 
