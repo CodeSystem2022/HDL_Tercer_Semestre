@@ -67,10 +67,6 @@ Año 2023, Repositorio del grupo HDL
 		<td>6°</td>
 		<td>Alexis Romero</td>
 	</tr>
-	<tr>
-		<td>7°</td>
-		<td>Leonardo Farina</td>
-	</tr>
 	
 </table>
 
