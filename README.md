@@ -8,16 +8,16 @@ Año 2023, Repositorio del grupo HDL
 </div>
 
 <div align="center">
-	<h2>-Lenguajes y herramientas-
+	<h2>-Materias y Lenguajes-
 	<br>
-	-Languages and tools-</h2>
+	-Programación III | Laboratorio III-</h2>
 	<br>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScrip" alt="JS" width="40" height="40">&nbsp;
   <br>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="JAVA" width="40" height="40">&nbsp;
   <br>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="PYTHON" width="40" height="40">&nbsp;
-  <h2><srong>INTEGRANTES:</srong></h2>
+  <h2><srong><u>INTEGRANTES</u></srong></h2>
   <br>
 <h3>	  
   Octavio Galdon
