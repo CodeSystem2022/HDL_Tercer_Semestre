@@ -22,7 +22,7 @@ Año 2023, Repositorio del grupo HDL
 <h3>	  
   Octavio Galdon
   <br>
-  Valetin Magnenat
+  Leonardo Farina
   <br>
   Franco Catala
   <br>
@@ -32,7 +32,7 @@ Año 2023, Repositorio del grupo HDL
   <br>
   Alexis Romero
   <br>
-  Leo Farina
+  Valetin Magnenat
   </h3>
  </div>
 
