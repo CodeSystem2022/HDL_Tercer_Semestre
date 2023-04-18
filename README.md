@@ -19,6 +19,7 @@ Año 2023, Repositorio del grupo HDL
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="PYTHON" width="40" height="40">&nbsp;
   <h2><srong><u>INTEGRANTES</u></srong></h2>
   <br>
+	
 <h3>	  
   Octavio Galdon
   <br>
@@ -31,7 +32,8 @@ Año 2023, Repositorio del grupo HDL
   Alexis Romero
   <br>
   Valetin Magnenat
-  </h3>
+</h3>
+	
  </div>
  
  ## 📆 `Organización Semanal`
