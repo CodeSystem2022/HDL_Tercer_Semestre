@@ -40,8 +40,13 @@ Año 2023, Repositorio del grupo HDL
  
 <table>
 	<tr>
-		<td>SEMANA</td>
-		<td>SCRUM MASTER</td>
+		<th>SEMANA</th>
+		<th>SCRUM MASTER</th>
 	</tr>
+	<tr>
+		<td>1°</td>
+		<td>Valentin Magnenat</td>
+	</tr>
+	
 </table>
 
