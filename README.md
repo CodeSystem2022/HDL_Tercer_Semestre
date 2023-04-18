@@ -22,8 +22,6 @@ Año 2023, Repositorio del grupo HDL
 <h3>	  
   Octavio Galdon
   <br>
-  Leonardo Farina
-  <br>
   Franco Catala
   <br>
   Santiago Cascon
