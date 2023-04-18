@@ -38,8 +38,10 @@ Año 2023, Repositorio del grupo HDL
  
  ## 📆 `Organización Semanal`
  
-<table> border="1px"
-	<tr>SEMANA</tr>
-	<tr>SCRUM MASTER</tr>
+<table>
+	<tr>
+		<td>SEMANA</td>
+		<td>SCRUM MASTER</td>
+	</tr>
 </table>
 
