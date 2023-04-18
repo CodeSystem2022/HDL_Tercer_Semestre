@@ -47,6 +47,30 @@ Año 2023, Repositorio del grupo HDL
 		<td>1°</td>
 		<td>Valentin Magnenat</td>
 	</tr>
+	<tr>
+		<td>2°</td>
+		<td>Octavio Galdon</td>
+	</tr>
+	<tr>
+		<td>3°</td>
+		<td>Franco Catalá</td>
+	</tr>
+	<tr>
+		<td>4°</td>
+		<td>Santiago Cascon</td>
+	</tr>
+	<tr>
+		<td>5°</td>
+		<td>Milena Gimenez</td>
+	</tr>
+	<tr>
+		<td>6°</td>
+		<td>Alexis Romero</td>
+	</tr>
+	<tr>
+		<td>7°</td>
+		<td>Leonardo Farina</td>
+	</tr>
 	
 </table>
 
