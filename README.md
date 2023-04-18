@@ -17,8 +17,9 @@ Año 2023, Repositorio del grupo HDL
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="JAVA" width="40" height="40">&nbsp;
   <br>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="PYTHON" width="40" height="40">&nbsp;
-  <h3>Integrantes:
+  <h2><srong>INTEGRANTES:</srong></h2>
   <br>
+<h3>	  
   Octavio Galdon
   <br>
   Valetin Magnenat
