@@ -2,7 +2,7 @@
 Año 2023, Repositorio del grupo HDL
 
 <div id="header" align="center">
-	<img src= "https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="600"/>
+	<img src= "https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" width="500"/>
 		<h1 align="center">Repositorio del grupo HDL</h1>
 		<h2 align="center">-En este repositorio subiremos semana a semana cada actividad del grupo-</h2>
 </div>
