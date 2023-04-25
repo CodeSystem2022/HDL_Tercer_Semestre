@@ -29,7 +29,7 @@ Año 2023, Repositorio del grupo HDL
   <br>
   Milena Belen Gimenez Prieto
   <br>
-  Alexis Romero
+  Alexis Emanuel Romero
   <br>
   Valetin Magnenat
 </h3>
