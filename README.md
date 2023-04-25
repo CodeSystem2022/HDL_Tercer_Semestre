@@ -27,7 +27,7 @@ Año 2023, Repositorio del grupo HDL
   <br>
   Santiago Cascon
   <br>
-  Milena Gimenez
+  Milena Belen Gimenez Prieto
   <br>
   Alexis Romero
   <br>
