@@ -45,15 +45,15 @@ Año 2023, Repositorio del grupo HDL
 	</tr>
 	<tr>
 		<td>1°</td>
-		<td>Valentin Magnenat</td>
+		<td>Franco Catalá</td>
 	</tr>
 	<tr>
 		<td>2°</td>
-		<td>Octavio Galdon</td>
+		<td>Valentin Magnenat</td>
 	</tr>
 	<tr>
 		<td>3°</td>
-		<td>Franco Catalá</td>
+		<td>Octavio Galdon</td>
 	</tr>
 	<tr>
 		<td>4°</td>
