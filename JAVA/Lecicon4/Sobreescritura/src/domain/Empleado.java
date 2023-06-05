@@ -1,4 +1,4 @@
-
+/*Clase padre*/
 package domain;
 
 
