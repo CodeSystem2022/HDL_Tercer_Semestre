@@ -72,7 +72,7 @@ console.log("Opcion 3:");
 let personaArray = Object.values(persona);
 console.log(personaArray);
 
-// Opcion 3
+// Opcion 4
 console.log("Opcion 4:");
 console.log("Metodo JSON.stringify");
 let personaString = JSON.stringify(persona);
