@@ -16,5 +16,7 @@ public class Gerente extends Empleado{
         return super.obtenerDetalles()+", Departamento = " + departamento;
         
     }
+    /*Polimorfismo*/
+    
     
 }

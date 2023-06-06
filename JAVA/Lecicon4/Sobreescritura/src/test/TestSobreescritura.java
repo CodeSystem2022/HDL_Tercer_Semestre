@@ -16,7 +16,7 @@ public class TestSobreescritura {
     
     /*Creamos metodo*/
     public static void imprimir(Empleado empleado){
-        System.out.println("empleado = " + empleado.obtenerDetalles());
-        
+        String detalles = empleado.obtenerDetalles();
+        System.out.println("detalles = " + detalles);
     }
 }
