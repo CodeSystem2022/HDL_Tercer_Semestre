@@ -16,7 +16,15 @@ public class Gerente extends Empleado{
         return super.obtenerDetalles()+", Departamento = " + departamento;
         
     }
-    /*Polimorfismo*/
+
+    public String getDepartamento() {
+        return departamento;
+    }
+
+    public void setDepartamento(String departamento) {
+        this.departamento = departamento;
+    }
+    
     
     
 }
