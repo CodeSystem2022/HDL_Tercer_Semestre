@@ -44,27 +44,27 @@ Año 2023, Repositorio del grupo HDL
 		<th>SCRUM MASTER</th>
 	</tr>
 	<tr>
-		<td>1°</td>
+		<td>1 - 7°</td>
 		<td>Franco Catalá</td>
 	</tr>
 	<tr>
-		<td>2°</td>
+		<td>2 - 8°</td>
 		<td>Valentin Magnenat</td>
 	</tr>
 	<tr>
-		<td>3°</td>
+		<td>3 - 9°</td>
 		<td>Octavio Galdon</td>
 	</tr>
 	<tr>
-		<td>4°</td>
+		<td>4 - 10°</td>
 		<td>Santiago Cascon</td>
 	</tr>
 	<tr>
-		<td>5°</td>
+		<td>5 - 11°</td>
 		<td>Milena Gimenez</td>
 	</tr>
 	<tr>
-		<td>6°</td>
+		<td>6 - 12°</td>
 		<td>Alexis Romero</td>
 	</tr>
 	
