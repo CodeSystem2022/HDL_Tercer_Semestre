@@ -1,4 +1,4 @@
-// while
+// while.
 
 let contador = 0;
 while(contador < 3){
