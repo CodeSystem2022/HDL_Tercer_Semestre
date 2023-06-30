@@ -2,7 +2,6 @@ import logging as log
 
 # log = logging
 # https://docs.python.org/3/howto/logging.html
-
 # Llamamos una configuracion basica
 
 log.basicConfig(level=log.DEBUG,
