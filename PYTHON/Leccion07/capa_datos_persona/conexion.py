@@ -22,7 +22,6 @@ class Conexion:
     def obtenerCursor(cls):
         pass
 
-
     @classmethod
     def obtenerPool(cls):
         if cls._pool is None:
