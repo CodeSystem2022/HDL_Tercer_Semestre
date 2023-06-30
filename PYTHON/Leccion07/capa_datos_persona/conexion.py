@@ -12,7 +12,6 @@ class Conexion:
     _MAX_CON = 5
     _pool = None
 
-
     @classmethod
     def obtenerConexion(cls):
         conexion = cls.obtenerPool().getconn()
