@@ -11,6 +11,7 @@ class PersonaDAO:
         Update --> Actualizar
         Delete --> Eliminar
     """
+    
 
     _SELECCIONAR = 'SELECT * FROM persona ORDER BY id_persona'
     _INSERTAR = 'INSERT INTO persona(nombre,apellido,email) VALUES (%s,%s,%s)'
