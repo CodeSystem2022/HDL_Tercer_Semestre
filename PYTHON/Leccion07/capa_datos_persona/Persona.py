@@ -1,6 +1,6 @@
 from logger_base import log 
 
-class Persona:
+class Persona: # Creamos Clase Persona
     def __init__(self, id_persona=None,nombre=None,apellido=None,email=None):
         self.id_persona = id_persona
         self.nombre = nombre
