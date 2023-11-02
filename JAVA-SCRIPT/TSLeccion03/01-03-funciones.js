@@ -59,7 +59,6 @@ function sumarTodo(){
     return suma;
 }
 
-
 // Tipos primitivos
 let k = 10;
 function cambiarValor(a){ //Paso por valor
