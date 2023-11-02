@@ -1,5 +1,4 @@
 package Leccion07.JavaBeans;
-
 public class TestJavaBeans {
 
     public static void main(String[] args) {
