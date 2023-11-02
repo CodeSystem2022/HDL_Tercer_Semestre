@@ -6,5 +6,6 @@ public class Aritmetica {
             throw new OperacionExcepcion("Division entre cero");
         }
         return numerador / denominador;
+        
     }
 }
