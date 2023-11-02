@@ -7,7 +7,6 @@ class Persona:
         self._apellido = apellido
         self._email = email
 
-
     def __str__(self):
         return f'''
             Id Persona: {self._id_persona},
@@ -15,7 +14,6 @@ class Persona:
             Apellido: {self._apellido},
             Email: {self._email}
             '''
-    
 
 # Getters and Setters
     @property
