@@ -1,5 +1,4 @@
 package Leccion07.JavaBeans;
-
 import java.io.Serializable;
 
 public class Persona implements Serializable {
