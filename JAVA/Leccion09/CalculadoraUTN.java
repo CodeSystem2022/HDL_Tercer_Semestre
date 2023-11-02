@@ -12,7 +12,6 @@ public class CalculadoraUTN {
                 if (operacion >= 1 && operacion <= 4) {
                     ejecutarOperacion(operacion, entrada);
                 } // Fin del if
-
                 else if (operacion == 5) {
                     System.out.println("Hasta pronto...");
                     break; // Rompe el ciclo y sale
