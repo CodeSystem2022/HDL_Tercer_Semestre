@@ -7,7 +7,6 @@ while (contador <3){
 console.log("Fin del ciclo while");
 
 //do while
-
 let conteo = 0;
 do{
     console.log(conteo);
