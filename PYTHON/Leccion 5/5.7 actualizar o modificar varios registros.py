@@ -13,7 +13,6 @@ try:
              cursor.executemany(sentencia, valores) # De esta manera ejecutamos la sentencia
              registros_actualizados = cursor.rowcount
              print(f'Los registros actualizados son :{registros_actualizados}')
-
 except Exception as e:
     print(f'Ocurrio un errror :{e}')
 finally:
